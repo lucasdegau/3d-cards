@@ -1,7 +1,7 @@
 # 3d-cards
 
 PT-BR
-Este é um projeto em desenvolvimento.
+✨Este é um projeto em desenvolvimento.✨
 
 Por gostar muito de jogos de cartas e RPGs, decidi dar início a esse projeto pessoal que junta as duas coisas;
 os personagens utilizados nas cartas foram criados e desenhados por mim, fazendo parte do meu TCC na graduação de Design Gráfico na FAAL (Faculdade de Administração e Artes de Limeira).
@@ -12,10 +12,10 @@ Os próximos passos deste projeto são:
 - Pensar em uma disposição diferente das cartas para um efeito mais dinâmico.
 - Possível criação de mais personagens e adição ao projeto.
 
-Obrigado pela atenção!
+Obrigado pela atenção!😊
 
 EN
-This is a project in development.
+✨This is a project in development.✨
 
 Because I love card games and RPGs, I decided to start this personal project that brings the two together;
 the characters used in the cards were created and designed by me, as part of my TCC in the Graphic Design graduation at FAAL (Administration and Arts College of Limeira).
@@ -26,4 +26,9 @@ The next steps in this project are:
 - Think about a different layout of the cards for a more dynamic effect.
 - Possible creation of more characters and adding them to the project.
 
-Thanks for your attention!
+Thanks for your attention!😊
+
+
+https://user-images.githubusercontent.com/86800632/199032672-81032ca6-af80-4e98-b357-742b383094fd.mp4
+
+
