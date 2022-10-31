@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Modelo</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+
+<body>
+  <div class="cards-grid">
+    <div class="container">
+      <div class="card dandara">
+        <div class="content">
+          <h2>DANDARA</h2>
+          <h3>capoeirista escrava etc</h3>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="card kayke">
+        <div class="content">
+          <h2>KAYKE</h2>
+          <h3>indígena, protetor da floresta etc</h3>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="card gaviao">
+        <div class="content">
+          <h2>GAVIÃO</h2>
+          <h3>cangaceiro etc</h3>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="card donato">
+        <div class="content">
+          <h2>DONATO</h2>
+          <h3>sambista etc</h3>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="card frei">
+        <div class="content">
+          <h2>FREI</h2>
+          <h3>Padre etc</h3>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="card soon">
+        <div class="content">
+          <h2>EM BREVE</h2>
+          <h3>Novos personagens estão no forno, aguardem!</h3>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="./assets/js/main.js"></script>
+  <script src="./assets/js/vanilla-tilt.js"></script>
+  <script>
+    VanillaTilt.init(document.querySelectorAll(".card"), {
+      max: 20,
+      speed: 200,
+      glare: true,
+      "max-glare": 0.5,
+    });
+  </script>
+</body>
+
+</html>

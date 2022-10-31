@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+:root {
+  --primary-color: rgb(135, 135, 135);
+  --primary-color-darker: rgb(94, 94, 94);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: url('../img/bg.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.cards-grid{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+
+}
+
+.container {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1200px;
+  flex-wrap: wrap;
+  z-index: 1;
+}
+
+.container .card{
+  position: relative;
+  width: 275px;
+  height: 385px;
+  margin: 15px;
+  box-shadow: 20px 20px 50px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container .card .content {
+  padding: 20px;
+  text-align: center;
+  transform: translateY(100px);
+  opacity: 0;
+  transition: 0.7s;
+}
+
+.container .card:hover .content{
+  transform: translateY(0px);
+  opacity: 1;
+}
+
+.container .card .content h2{
+  position: relative;
+  left: 0;
+  top: -75px;
+  font-size: 2.5em;
+  color: rgb(255, 255, 255);
+}
+
+.container .card .content h3{
+  position: relative;
+  top: -60px;
+  font-size: 1.4em;
+  color: rgb(255, 255, 255);
+  z-index: 1;
+}
+
+
+
+
+.container .card.dandara {
+  background-image: url("../img/dandara.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+
+.container .card.kayke {
+  background-image: url("../img/kayke.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container .card.frei {
+  background-image: url("../img/frei.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container .card.donato {
+  background-image: url("../img/donato.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container .card.gaviao {
+  background-image: url("../img/gaviao.png"); 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.container .card.soon{
+  background: rgb(26, 26, 26);
+}
+
+
