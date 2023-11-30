@@ -9,7 +9,7 @@ A proposta é criar cartas no estilo das cartas de Magic the Gathering, onde sã
 
 Os próximos passos deste projeto são:
 - Adicionar efeito de "virar" a carta em 180º para mostrar o conteúdo na parte de trás.
-- Pensar em uma disposição diferente das cartas para um efeito mais dinâmico.
+- Criar uma disposição diferente das cartas para um efeito mais dinâmico.
 - Possível criação de mais personagens e adição ao projeto.
 
 Obrigado pela atenção!😊
@@ -23,7 +23,7 @@ The proposal is to create cards in the style of Magic the Gathering cards, where
 
 The next steps in this project are:
 - Add effect to "flip" the card 180° to show the content on the back.
-- Think about a different layout of the cards for a more dynamic effect.
+- Come up with a different card layout for a more dynamic effect.
 - Possible creation of more characters and adding them to the project.
 
 Thanks for your attention!😊
